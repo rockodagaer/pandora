@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<aiml>
+  <category>
+    <pattern>hi</pattern>
+    <template>Hi how are you?</template>
+  </category>
+</aiml>
